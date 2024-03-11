@@ -2,9 +2,9 @@ import './App.css';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
 // Components
-import Home from './pages/Home';
-import About from './pages/About'
-import Vans from './pages/Vans' 
+import Home from './pages_proj1/Home';
+import About from './pages_proj1/About'
+import Vans from './pages_proj1/Vans' 
 
 function App() {
   return (
