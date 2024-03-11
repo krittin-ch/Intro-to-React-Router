@@ -11,4 +11,4 @@ function Vans() {
     )
 };
 
-export default Vans;
+export default Vans;         
